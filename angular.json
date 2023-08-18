@@ -27,7 +27,8 @@
             "styles": [
               "projects/curd/src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+          ]
           },
           "configurations": {
             "production": {
