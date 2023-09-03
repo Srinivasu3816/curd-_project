@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Srinivasu",
+      "email": "srinivasmtech2014@gmail.com",
+      "mobile": 8985282746,
+      "address": "Hyderabad",
+      "services": "Food Services"
+    }
+  ],
+  "comments": [],
+  "signup": {
+    "name": "Naresh",
+    "email": "naresh@gmail.com",
+    "mobile": "9949420738",
+    "password": "naresh"
+  }
+}
